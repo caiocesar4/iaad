@@ -1,0 +1,5 @@
+Um banco de dados é um grupo de informações
+que se relacionam e tratam de um mesmo assunto, já
+um sistema de gerenciamento de banco de dados é um
+software que possui recursos capazes de manipular 
+essas informações do "bd" e interagir com o usuário.
